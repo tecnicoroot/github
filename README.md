@@ -7,5 +7,7 @@ Comando para utilização do github
 #### Segurança
 
 ## Comando:
-### Verificar a versão do git
-git --version
+### Verificar a versão do git:
+#### git --version
+### Iniciar o Git em uma pasta:
+#### git init
